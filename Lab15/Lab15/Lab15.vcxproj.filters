@@ -30,12 +30,18 @@
     <ClCompile Include="DataBase.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FileReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PlotLib\pbPlots.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="PlotLib\supportLib.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
